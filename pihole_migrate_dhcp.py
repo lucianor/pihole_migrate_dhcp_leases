@@ -48,7 +48,7 @@ piHoleLeasesFile.close()
 
 # create adguard lease json strucutre
 adguardJson= {
-    "version" : "1",
+    "version": 1,
     "leases": leasesLists
 }
 
